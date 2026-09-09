@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debate"
+  short_description: "Интервью и последовательное обсуждение задач"
+  default_prompt: "$debate продолжай"
